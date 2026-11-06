@@ -480,6 +480,8 @@ See [CONTRIBUTING.md](./docs/CONTRIBUTING.md).
     [384]  Bresser SmartHome Garden soil moisture and water timer valve (Baldr Homgar, RainPoint)
     [385]* Neptune R900 BCD flow meters
     [386]  Olympia Protect 9571 alarm system sensors
+    [387]  Marantec garage door remote
+    [388]* Marantec24 clone remote
 
 * Disabled by default, use -R n or a conf file to enable
 
