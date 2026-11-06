@@ -394,6 +394,8 @@
     DECL(bresser_garden) \
     DECL(neptune_r900bcd) \
     DECL(olympia_9571) \
+    DECL(nero_sketch) \
+    DECL(nero_radio) \
     /* Add new decoders here. */
 
 #define DECL(name) extern r_device const name;
